@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "price": 12000,
+      "type": "input",
+      "createdAt": "2022-12-03T11:31:22.634Z",
+      "category": "Venda"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "price": 59,
+      "type": "output",
+      "createdAt": "2022-12-03T11:51:49.379Z",
+      "category": "Alimentação"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "price": 1200,
+      "type": "output",
+      "createdAt": "2022-12-03T23:03:48.768Z",
+      "category": "Casa"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "price": 5400,
+      "type": "input",
+      "createdAt": "2022-12-04T23:03:48.768Z",
+      "category": "Venda"
+    },
+    {
+      "description": "trabalho na loja",
+      "price": 600,
+      "category": "Work",
+      "type": "input",
+      "createdAt": "2022-12-10T12:37:07.981Z",
+      "id": 5
+    },
+    {
+      "description": "celular",
+      "price": 1500,
+      "category": "Compra",
+      "type": "output",
+      "createdAt": "2022-12-10T12:40:14.917Z",
+      "id": 6
+    },
+    {
+      "description": "Monitor",
+      "price": 914,
+      "category": "Setup",
+      "type": "output",
+      "createdAt": "2022-12-10T13:25:43.764Z",
+      "id": 7
+    },
+    {
+      "description": "notebook ",
+      "price": 4000,
+      "category": "Setup",
+      "type": "output",
+      "createdAt": "2022-12-10T13:42:10.901Z",
+      "id": 8
+    }
+  ]
+}
